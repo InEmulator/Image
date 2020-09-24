@@ -1,0 +1,120 @@
+<div class="md-diagram-panel"
+  style="width: 100%;margin-top: 10px;text-align: center;padding-top: 0px;padding-bottom: 8px;">
+  <svg height="497.8125" version="1.1" width="377.5" xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-22 0 377.5 497.8125" preserveAspectRatio="xMidYMid meet"
+    style="overflow: hidden; position: relative; fill: white;">
+    <desc>Created with Raphaël 2.2.0</desc>
+    <defs>
+      <path stroke-linecap="round" d="M5,0 0,2.5 5,5z" id="raphael-marker-block"></path>
+      <marker id="raphael-marker-endblock33-obj51t9f" markerHeight="3" markerWidth="3" orient="auto" refX="1.5"
+        refY="1.5">
+        <use xlink:href="#raphael-marker-block" transform="rotate(180 1.5 1.5) scale(0.6,0.6)" stroke-width="1.6667"
+          fill="currentColor" stroke="none"></use>
+      </marker>
+      <marker id="raphael-marker-endblock33-objywme0" markerHeight="3" markerWidth="3" orient="auto" refX="1.5"
+        refY="1.5">
+        <use xlink:href="#raphael-marker-block" transform="rotate(180 1.5 1.5) scale(0.6,0.6)" stroke-width="1.6667"
+          fill="currentColor" stroke="none"></use>
+      </marker>
+      <marker id="raphael-marker-endblock33-obj6pyep" markerHeight="3" markerWidth="3" orient="auto" refX="1.5"
+        refY="1.5">
+        <use xlink:href="#raphael-marker-block" transform="rotate(180 1.5 1.5) scale(0.6,0.6)" stroke-width="1.6667"
+          fill="currentColor" stroke="none"></use>
+      </marker>
+      <marker id="raphael-marker-endblock33-obj4vvox" markerHeight="3" markerWidth="3" orient="auto" refX="1.5"
+        refY="1.5">
+        <use xlink:href="#raphael-marker-block" transform="rotate(180 1.5 1.5) scale(0.6,0.6)" stroke-width="1.6667"
+          fill="currentColor" stroke="none"></use>
+      </marker>
+      <marker id="raphael-marker-endblock33-objit514" markerHeight="3" markerWidth="3" orient="auto" refX="1.5"
+        refY="1.5">
+        <use xlink:href="#raphael-marker-block" transform="rotate(180 1.5 1.5) scale(0.6,0.6)" stroke-width="1.6667"
+          fill="currentColor" stroke="none"></use>
+      </marker>
+      <marker id="raphael-marker-endblock33-objvu0ty" markerHeight="3" markerWidth="3" orient="auto" refX="1.5"
+        refY="1.5">
+        <use xlink:href="#raphael-marker-block" transform="rotate(180 1.5 1.5) scale(0.6,0.6)" stroke-width="1.6667"
+          fill="currentColor" stroke="none"></use>
+      </marker>
+      <marker id="raphael-marker-endblock33-obj0gdmk" markerHeight="3" markerWidth="3" orient="auto" refX="1.5"
+        refY="1.5">
+        <use xlink:href="#raphael-marker-block" transform="rotate(180 1.5 1.5) scale(0.6,0.6)" stroke-width="1.6667"
+          fill="currentColor" stroke="none"></use>
+      </marker>
+    </defs>
+    <rect x="0" y="0" width="76" height="35.65625" rx="20" ry="20" fill="var(--bg-color)" stroke="currentColor"
+      stroke-width="3" class="flowchart" id="st" transform="matrix(1,0,0,1,48,20.4219)" style=""></rect>
+    <text x="10" y="17.828125" text-anchor="start" font-family='"Arial"' font-size="14px" stroke="none"
+      fill="currentColor" id="stt" class="flowchartt" transform="matrix(1,0,0,1,48,20.4219)" stroke-width="1"
+      style="text-anchor: start; font-family: Arial; font-size: 14px">
+      <tspan dy="4.859375">開始迴圈</tspan>
+    </text>
+    <rect x="0" y="0" width="90" height="35.65625" rx="0" ry="0" fill="var(--bg-color)" stroke="currentColor"
+      stroke-width="3" class="flowchart" id="op1" transform="matrix(1,0,0,1,41,126.5)" style=""></rect>
+    <text x="10" y="17.828125" text-anchor="start" font-family='"Arial"' font-size="14px" stroke="none"
+      fill="currentColor" id="op1t" class="flowchartt" transform="matrix(1,0,0,1,41,126.5)" stroke-width="1"
+      style="text-anchor: start; font-family: Arial; font-size: 14px">
+      <tspan dy="4.859375">對比小括弧</tspan>
+    </text>
+    <path fill="var(--bg-color)" stroke="currentColor" d="M32.25,16.125L0,32.25L64.5,64.5L129,32.25L64.5,0L0,32.25"
+      stroke-width="3" id="cond" class="flowchart" transform="matrix(1,0,0,1,21.5,218.1563)" style=""></path>
+    <text x="37.25" y="32.25" text-anchor="start" font-family='"Arial"' font-size="14px" stroke="none"
+      fill="currentColor" id="condt" class="flowchartt" transform="matrix(1,0,0,1,21.5,218.1563)" stroke-width="1"
+      style="text-anchor: start; font-family: Arial; font-size: 14px">
+      <tspan dy="4.859375">滿足條件</tspan>
+    </text>
+    <rect x="0" y="0" width="132" height="35.65625" rx="0" ry="0" fill="var(--bg-color)" stroke="currentColor"
+      stroke-width="3" class="flowchart" id="op2" transform="matrix(1,0,0,1,20,353.0781)" style=""></rect>
+    <text x="10" y="17.828125" text-anchor="start" font-family='"Arial"' font-size="14px" stroke="none"
+      fill="currentColor" id="op2t" class="flowchartt" transform="matrix(1,0,0,1,20,353.0781)" stroke-width="1"
+      style="text-anchor: start; font-family: Arial; font-size: 14px">
+      <tspan dy="4.859375">執行大括弧內動作</tspan>
+    </text>
+    <rect x="0" y="0" width="160" height="35.65625" rx="0" ry="0" fill="var(--bg-color)" stroke="currentColor"
+      stroke-width="3" class="flowchart" id="op3" transform="matrix(1,0,0,1,6,459.1563)" style=""></rect>
+    <text x="10" y="17.828125" text-anchor="start" font-family='"Arial"' font-size="14px" stroke="none"
+      fill="currentColor" id="op3t" class="flowchartt" transform="matrix(1,0,0,1,6,459.1563)" stroke-width="1"
+      style="text-anchor: start; font-family: Arial; font-size: 14px">
+      <tspan dy="4.859375">更新小括弧內數值內容</tspan>
+    </text>
+    <rect x="0" y="0" width="76" height="35.65625" rx="0" ry="0" fill="var(--bg-color)" stroke="currentColor"
+      stroke-width="3" class="flowchart" id="op4" transform="matrix(1,0,0,1,248.5,232.5781)" style=""></rect>
+    <text x="10" y="17.828125" text-anchor="start" font-family='"Arial"' font-size="14px" stroke="none"
+      fill="currentColor" id="op4t" class="flowchartt" transform="matrix(1,0,0,1,248.5,232.5781)" stroke-width="1"
+      style="text-anchor: start; font-family: Arial; font-size: 14px">
+      <tspan dy="4.859375">結束迴圈</tspan>
+    </text>
+    <rect x="0" y="0" width="132" height="35.65625" rx="20" ry="20" fill="var(--bg-color)" stroke="currentColor"
+      stroke-width="3" class="flowchart" id="e" transform="matrix(1,0,0,1,220.5,338.6563)" style=""></rect>
+    <text x="10" y="17.828125" text-anchor="start" font-family='"Arial"' font-size="14px" stroke="none"
+      fill="currentColor" id="et" class="flowchartt" transform="matrix(1,0,0,1,220.5,338.6563)" stroke-width="1"
+      style="text-anchor: start; font-family: Arial; font-size: 14px">
+      <tspan dy="4.859375">繼續下面的程式碼</tspan>
+    </text>
+    <path fill="none" stroke="currentColor" d="M86,56.078125C86,56.078125,86,106.47390438150615,86,122.00111961086668"
+      stroke-width="3" marker-end="url(#raphael-marker-endblock33-obj51t9f)" style=""></path>
+    <path fill="none" stroke="currentColor" d="M86,162.15625C86,162.15625,86,200.35702085494995,86,213.65641031763516"
+      stroke-width="3" marker-end="url(#raphael-marker-endblock33-objywme0)" style=""></path>
+    <path fill="none" stroke="currentColor" d="M86,282.65625C86,282.65625,86,333.05202938150615,86,348.5792446108667"
+      stroke-width="3" marker-end="url(#raphael-marker-endblock33-obj6pyep)" style=""></path>
+    <text x="91" y="292.65625" text-anchor="start" font-family='"Arial"' font-size="14px" stroke="none"
+      fill="currentColor" stroke-width="1" style="text-anchor: start; font-family: Arial; font-size: 14px">
+      <tspan dy="4.859375">yes</tspan>
+    </text>
+    <path fill="none" stroke="currentColor"
+      d="M150.5,250.40625C150.5,250.40625,224.7794804573059,250.40625,244.00219756783918,250.40625" stroke-width="3"
+      marker-end="url(#raphael-marker-endblock33-obj4vvox)" style=""></path>
+    <text x="155.5" y="240.40625" text-anchor="start" font-family='"Arial"' font-size="14px" stroke="none"
+      fill="currentColor" stroke-width="1" style="text-anchor: start; font-family: Arial; font-size: 14px">
+      <tspan dy="4.859375">no</tspan>
+    </text>
+    <path fill="none" stroke="currentColor" d="M86,388.734375C86,388.734375,86,439.13015438150615,86,454.6573696108667"
+      stroke-width="3" marker-end="url(#raphael-marker-endblock33-objit514)" style=""></path>
+    <path fill="none" stroke="currentColor"
+      d="M6,476.984375C6,476.984375,-19,476.984375,-19,476.984375C-19,476.984375,-19,101.5,-19,101.5C-19,101.5,86,101.5,86,101.5C86,101.5,86,114.80397129058838,86,122.00162763334811"
+      stroke-width="3" marker-end="url(#raphael-marker-endblock33-objvu0ty)" style=""></path>
+    <path fill="none" stroke="currentColor"
+      d="M286.5,268.234375C286.5,268.234375,286.5,318.63015438150615,286.5,334.1573696108667" stroke-width="3"
+      marker-end="url(#raphael-marker-endblock33-obj0gdmk)" style=""></path>
+  </svg>
+</div>
